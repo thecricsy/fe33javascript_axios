@@ -1,7 +1,7 @@
 var nguoiDungService = new NguoiDungService();
 
 function themNguoiDungTest(){
-    console.log("them nguoi dung okla");
+    console.log("them nguoi dung thu 2 okla");
 }
 
 
